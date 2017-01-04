@@ -33,14 +33,14 @@ body {
 #titleNames {
   font-family: 'Gloria Hallelujah', sans-serif;
   font-size: 150px;
-  color: green;
+  color: #0059b3;
   margin-bottom: 0px;
 }
 
 #titlePodcast {
   font-family: 'Permanent Marker', sans-serif;
   font-size: 75px;
-  color: blue;
+  color: #0059b3;
   margin-top: 0px;
 }
 
@@ -55,8 +55,15 @@ body {
   margin-left: 20%;
 }
 
+.episodeDiv h3 {
+  font-size: 40px;
+  color: #A52A2A;
+  font-family: sans-serif;
+}
+
 .episodeDiv p {
   font-size: 18px;
+  font-family: sans-serif;
 }
 
 #twitterP {
