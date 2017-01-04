@@ -10,10 +10,24 @@ body {
   margin-left: 5%;
   padding-bottom: 100px;
   box-shadow: 0px 0px 75px;
+  opacity:
+}
+
+#skylineImg {
+  display: block;
+  position: fixed;
+  width: 54%;
+  left: 23%;
+  opacity: .7;
+}
+
+.relative {
+  position: relative;
 }
 
 #introSection {
   text-align: center;
+  position: relative;
 }
 
 #titleNames {
@@ -37,6 +51,12 @@ body {
 .episodeDiv {
   text-align: center;
   margin-top: 100px;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+.episodeDiv p {
+  font-size: 18px;
 }
 
 #twitterP {
